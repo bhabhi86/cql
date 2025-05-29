@@ -57,4 +57,4 @@ if __name__ == '__main__':
     # print(process_request({"password": "myPa55word"}))
     # print(process_request({"password": "incorrect"}))
     # print(process_request({"password": "securePa55word"})) # This should match the "GOOD" path
-    app.run(debug=True)
+    app.run(debug=False)
