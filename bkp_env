@@ -1,0 +1,7 @@
+SMTP_SENDER_EMAIL="bhabhi86@gmail.com"
+SMTP_USERNAME="bhabhi86@gmail.com"
+SMTP_SENDER_PASSWORD="lzun lqyj tfpx zcar"
+SMTP_SERVER="smtp.gmail.com"
+SMTP_PORT=587
+FRONTEND_URL="http://localhost:3001"
+JWT_SECRET_KEY="super-secret"
